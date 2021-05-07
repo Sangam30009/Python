@@ -1,0 +1,6 @@
+DEBUG:root:a=5
+DEBUG:root:b=5
+DEBUG:root:result=1.0
+DEBUG:root:a=5
+DEBUG:root:b=0
+DEBUG:root:a=5
